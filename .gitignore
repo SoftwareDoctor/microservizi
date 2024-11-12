@@ -1,0 +1,10 @@
+# Ignora le directory di dati
+api-gateway/volume-data/
+order-service/volume-data/
+inventory-service/volume-data/
+product-service/volume-data/
+
+# Ignora file temporanei o specifici di sistema
+*.sock
+*.log
+*.tmp
